@@ -81,8 +81,8 @@ One paragraph. This is will help us improve onboarding.
 | 0 Setup | 1.5 |
 | 1 MuJoCo + PD | 1.5 |
 | 2 JAX | 1 |
-| 3 MJX env |3 |
-| 4 Brax + export | |
+| 3 MJX env | 3 |
+| 4 Brax + export | 2 |
 | 5 ROS 2 | |
 | **Total** | |
 
